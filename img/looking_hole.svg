@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10000"
+   height="10000"
+   viewBox="-5000 -5000 10000 10000"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="looking_hole.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45254835"
+     inkscape:cx="5463.5046"
+     inkscape:cy="4472.4503"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3907">
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0.80000001"
+         id="stop3903" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop3905" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3907"
+       id="radialGradient3909"
+       cx="-4900"
+       cy="-4900"
+       fx="-4900"
+       fy="-4900"
+       r="200"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4900,4900)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2426"
+       style="opacity:1;fill:url(#radialGradient3909);fill-opacity:1;stroke:none;stroke-width:18.8976"
+       d="M 0,-200 A 200,200 0 0 0 -200,0 200,200 0 0 0 0,200 200,200 0 0 0 200,0 200,200 0 0 0 0,-200 Z m 0,40 A 160,160 0 0 1 160,0 160,160 0 0 1 0,160 160,160 0 0 1 -160,0 160,160 0 0 1 0,-160 Z" />
+    <path
+       id="rect10828"
+       style="fill:#000000;stroke-width:226.023;stroke-dasharray:none"
+       d="M -5000 -5000 L -5000 5000 L 5000 5000 L 5000 -5000 L -5000 -5000 z M 0 -199 A 199 199 0 0 1 199 0 A 199 199 0 0 1 0 199 A 199 199 0 0 1 -199 0 A 199 199 0 0 1 0 -199 z " />
+  </g>
+</svg>
