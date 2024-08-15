@@ -251,7 +251,7 @@ document.body.removeChild(el); 
 
 
 function importSave(imported = undefined) {
-  if (imported === undefined) imported = prompt("paste your save here")
+  if (imported === undefined) imported = prompt("在这里粘贴你的存档")
   stop_saving = true;
   player =JSON.parse(atob(imported))
   save(true)
@@ -259,7 +259,7 @@ function importSave(imported = undefined) {
     
 }
 function hardReset(){
-  if(confirm("Are you sure??? It will reset EVERYTHING and you will not get any reward!!!")){
+  if(confirm("你确定吗?它会重置一切，你不会得到任何奖励!!")){
     player=start()
     window.location.reload();
     save()
